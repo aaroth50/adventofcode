@@ -30,6 +30,7 @@ int main()
 			}
 		}
 	}
+	std::cout << "Beep Boop " <<  std::endl;
 	//std::cout << "Floor is " << up - down << std::endl;
 	return 0;
 
